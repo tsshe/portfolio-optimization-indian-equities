@@ -14,9 +14,9 @@ investment tool for retail investors.
 ---
 
 ## Repository Structure
-RD_FINAL.ipynb          #Main notebook (data, optimization, results, UI)
-Dissertation_Report.pdf #Full project report
-README.md
+1. RD_FINAL.ipynb          #Main notebook (data, optimization, results, UI)
+2. Dissertation_Report.pdf #Full project report
+3. README.md
 
 ---
 
