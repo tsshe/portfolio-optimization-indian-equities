@@ -15,7 +15,7 @@ investment tool for retail investors.
 
 ## Repository Structure
 RD_FINAL.ipynb          #Main notebook (data, optimization, results, UI)
-Juhi_Diyanshi_Tanushri__Diversified_Portfolio_Optimization_for_Indian_Equities_Using_Sharpe_Ratio_Maximization.pdf #Full project report
+Dissertation_Report.pdf #Full project report
 README.md
 
 ---
